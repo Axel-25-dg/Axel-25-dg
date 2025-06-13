@@ -47,14 +47,9 @@
 
 ---
 
-## 📂 Proyectos
+# 📂 Mis Proyectos
 
 Estoy compartiendo mis proyectos realizados en la universidad. 
-Proyectos Destacados
-
-<div align="center">
-
-# 📂 Mis Proyectos
 
 <div align="center">
   
