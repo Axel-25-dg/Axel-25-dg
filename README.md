@@ -42,12 +42,12 @@
   <tr>
     <td style="padding:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
       <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank">
-        <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg" alt="Certificado ML" width="250"/>
+        <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg](https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" alt="Certificado   ML" width="250"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <h3>Certificado de Machine Learning</h3>
-      <p><strong>Institución:</strong> <a href="https://capacitacionescte.com/">Practicas Laborales Voluntarias </a></p>
+      <h3>Certificado de Practicas Voluntarias</h3>
+      <p><strong>Institución:</strong> <a href="https://capacitacionescte.com/](https://grupoancon.com/">Practicas Laborales Voluntarias </a></p>
       <p><strong>Fecha:</strong> 26 de Septiembre de 2025</p>
       <p>🔗 <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank">Ver certificado completo (PDF)</a></p>
     </td>
