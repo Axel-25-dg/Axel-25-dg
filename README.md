@@ -16,6 +16,9 @@
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" style="margin: 0 10px;"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" style="margin: 0 10px;"/></a>
   </p>
 </div>
 
