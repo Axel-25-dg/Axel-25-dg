@@ -42,7 +42,7 @@
   <tr>
     <td style="padding:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
       <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank">
-        <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg](https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" alt="Certificado   ML" width="250"/>
+       <img src="https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" alt="Certificado Laboral" width="250"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
