@@ -1,0 +1,41 @@
+Etapa,"Descripción General","Duración Estimada (Semanas)","Entregables Clave"
+1,"Investigación y Legalidad",9,"Reporte de análisis de mercado, Constitución legal, Registro de Propiedad Intelectual."
+2,"Arquitectura y Diseño",9,"Wireframes, Prototipo UX/UI, Arquitectura de software documentada."
+3,"Desarrollo del Producto",10,"Código Fuente Funcional (Backend, Frontend, Mobile), Pruebas QA completas."
+4,"Lanzamiento y Puesta en Marcha",8,"Lanzamiento oficial en plataformas, Documentación de soporte, Monitoreo inicial."
+TOTAL,,36,"Producto final listo para el mercado."
+
+
+"ID Tarea","Actividad (User Story)","Rol Propietario","Duración (Semanas)","Tarifa Semanal Estimada (USD)","Costo Laboral (USD)"
+T-303,"Backend, Frontend, Mobile (Desarrollo principal)","Equipo de Desarrollo",10,1800,18000
+T-105,"Propiedad intelectual del código",Legal,4,1900,7600
+T-102,"Constitucion de la marca legalmente","Legal / Gestión",3,2050,6150
+T-201,"Diseño de esqueletos, flujos, diseño visual","Diseño UX/UI",4,1500,6000
+T-501,"Post-lanzamiento y Monitoreo","QA/Soporte",4,1400,5600
+T-203,"Prototipado y licencias",Desarrollo,3,1800,5400
+T-101,"Analisis de mercado",Gestión,2,2200,4400
+T-202,"Arquitectura de software","Arquitectura SW",2,2000,4000
+T-104,"Auditoria para rentabilidad esperada",Finanzas,2,1600,3200
+T-406,"Lanzamiento en plataformas","Marketing / DevOps",2,1600,3200
+SUBTOTAL,,,36,,67550
+
+
+"Tarea (Fuente)","Descripción del Gasto","Tipo de Gasto","Costo Directo Estimado (USD)","Requerido","URL de Referencia"
+T-103,"Registro de Dominios (.com, .app)",Fijo,150,VERDADERO,"https://www.google.com/search?q=https://www.name.com/es-la/domain/pricing"
+T-105,"Honorarios Legal Propiedad Intelectual",Honorarios,5000,VERDADERO,"Intellectual Property Protection Online - Trademark and Copyright Registrations, Provisional Patent Application | LegalZoom"
+T-204,"Arriendo/Setup Oficina (4 Semanas)",Fijo,6000,FALSO,"https://www.wework.com/es-LA"
+T-301,"Infraestructura de desarrollo (Cloud Inicial)",Servidores,2000,VERDADERO,"https://calculator.aws/"
+T-302,"Licencias de Software (Base de datos, herramientas)",Licencia,4500,VERDADERO,"https://www.atlassian.com/es/software/jira/pricing https://www.jetbrains.com/store/"
+T-406,"Fees de App Store / Google Play",Licencia,500,VERDADERO,"https://developer.apple.com/programs/enroll/ https://play.google.com/console/about/"
+T-407,"Campaña de Marketing Inicial (Ads)",Marketing,1000,FALSO,"https://www.google.com/search?q=https://ads.google.com/intl/es-419_home/start/"
+SUBTOTAL,,,,19150,,
+
+
+Concepto,"Detalle de Cálculo","Monto (USD)"
+"A. Costo Laboral Total","Subtotal de Recursos Humanos (Tabla 2)",67550
+"B. Gastos Directos Totales","Subtotal de Gastos Directos (Tabla 3)",19150
+"COSTO BASE (A + B)",,86700
+"C. Fondo de Contingencia (12%)","12% sobre el Costo Base",10404
+"COSTO TOTAL ESTIMADO (A + B + C)","(Costo de entrega del proyecto)",97104
+"D. Margen de Ganancia (25%)","25% sobre el Costo Total Estimado",24276
+"PRECIO DE VENTA FINAL","(Costo Total Estimado + Margen)",121380.00
