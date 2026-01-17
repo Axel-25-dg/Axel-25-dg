@@ -93,7 +93,7 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 🏆 Certificados
+## Certificados
 <table>
   <tr>
     <td style="padding:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
@@ -129,7 +129,7 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 🎯 Lo que estoy aprendiendo actualmente
+## Lo que estoy aprendiendo actualmente
 - **Desarrollo web con Django, Python, HTML y JavaScript** 🌐: Creando apps full-stack escalables y responsivas.
 - **Machine Learning Avanzado** 🤖: Modelos predictivos con TensorFlow y datasets reales.
 - **APIs y Bases de Datos** 💾: RESTful services y optimización en MySQL/PostgreSQL.
@@ -242,7 +242,7 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   
-  <h3>📈 Gráfico de Actividad</h3>
+  <h3> Gráfico de Actividad</h3>
   <!-- Si no carga, refresca; Vercel es estable, pero cachea por 1h -->
   <a href="https://github.com/Axel-25-dg">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true" alt="Gráfico de Actividad" width="100%" />
@@ -262,7 +262,7 @@ Puedes encontrarme en:
 - 📍 **Ubicación:** Quito, Ecuador 🌎
 - 💼 **LinkedIn:** [Axel Guamán](https://www.linkedin.com/in/axel-guaman)
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/axel-guaman">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
