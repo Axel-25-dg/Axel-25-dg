@@ -67,6 +67,7 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <br clear="both">
 
+<!-- Snake animation: Si no carga, comenta esta línea y genera el SVG de nuevo via https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/Axel-25-dg/Axel-25-dg/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
@@ -84,6 +85,7 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 | **DevOps/Tools** | 🟢 Básico    | Git, GitHub, Azure, Figma                    |
 
 <div align="center">
+  <!-- Progress bars: Si no cargan, es por rate limit; refresca o usa shields alternativos -->
   <img src="https://progress-bar.dev/85.svg?color=1f6feb&suffix=Backend" alt="Backend Progress">
   <img src="https://progress-bar.dev/70.svg?color=1f6feb&suffix=Frontend" alt="Frontend Progress">
   <img src="https://progress-bar.dev/55.svg?color=1f6feb&suffix=ML" alt="ML Progress">
@@ -234,16 +236,19 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
   </a>
   
   <h3>🔥 Racha de Contribuciones</h3>
+  <!-- Si no carga, es por Heroku downtime; alternativa: usa img de shields.io con texto "Streak: X días" -->
   <a href="https://github.com/Axel-25-dg">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
   
   <h3>📈 Gráfico de Actividad</h3>
+  <!-- Si no carga, refresca; Vercel es estable, pero cachea por 1h -->
   <a href="https://github.com/Axel-25-dg">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true" alt="Gráfico de Actividad" width="100%" />
   </a>
 </div>
 
+<!-- Trophy: Si no carga, quítalo temporalmente; se genera basado en contribs -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Axel-25-dg&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy Badge" />
 </div>
