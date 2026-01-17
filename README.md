@@ -35,60 +35,97 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
 ## 🛠️ Tecnologías y Herramientas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,django,tensorflow,ts,css,nextjs&perline=4&theme=dark" alt="Tech Stack Icons" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Axel-25-dg/Axel-25-dg/output/snake.svg" alt="Snake animation" />
 
 ### Habilidades Clave
 | **Categoría**     | **Nivel**     | **Herramientas Principales**                  |
 |------------------|---------------|-----------------------------------------------|
-| **Backend**      | 🟢 Avanzado  | Python, Django, Node.js (básico)             |
-| **Frontend**     | 🟡 Intermedio| HTML, CSS, JavaScript, TypeScript, Next.js   |
-| **ML/AI**        | 🟢 Fundacional| TensorFlow, Modelos de Aprendizaje Supervisado |
-| **Bases de Datos**| 🟡 Intermedio| MySQL, PostgreSQL (en aprendizaje)           |
+| **Backend**      | 🟢 Avanzado  | Python, Django, Node.js, NestJS              |
+| **Frontend**     | 🟡 Intermedio| HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| **ML/AI**        | 🟢 Fundacional| TensorFlow, Modelos de Aprendizaje Supervisado, R |
+| **Bases de Datos**| 🟡 Intermedio| MySQL, PostgreSQL                            |
 | **DevOps/Tools** | 🟢 Básico    | Git, GitHub, Azure, Figma                    |
 
 <div align="center">
   <img src="https://progress-bar.dev/85.svg?color=1f6feb&suffix=Backend" alt="Backend Progress">
-  <img src="https://progress-bar.dev/65.svg?color=1f6feb&suffix=Frontend" alt="Frontend Progress">
-  <img src="https://progress-bar.dev/50.svg?color=1f6feb&suffix=ML" alt="ML Progress">
+  <img src="https://progress-bar.dev/70.svg?color=1f6feb&suffix=Frontend" alt="Frontend Progress">
+  <img src="https://progress-bar.dev/55.svg?color=1f6feb&suffix=ML" alt="ML Progress">
 </div>
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
 ## 🏆 Certificados
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-    <div style="border: 2px solid #1f6feb; border-radius: 15px; padding: 20px; background: #0d1117; max-width: 350px; text-align: center; box-shadow: 0 8px 16px rgba(31,111,235,0.2);">
-      <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg" width="250" height="180" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(31,111,235,0.3);" alt="Certificado ML" />
+<table>
+  <tr>
+    <td style="padding:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
+      <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing" target="_blank">
+        <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg" alt="Certificado ML" width="250"/>
       </a>
-      <h3 style="color: #1f6feb; margin: 15px 0;">Certificado de Machine Learning</h3>
-      <p><strong>Institución:</strong> <a href="https://capacitacionescte.com/" style="color: #1f6feb;">Capacitaciones Técnicas del Ecuador</a></p>
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <h3>Certificado de Machine Learning</h3>
+      <p><strong>Institución:</strong> <a href="https://capacitacionescte.com/">Capacitaciones Técnicas del Ecuador</a></p>
       <p><strong>Fecha:</strong> 8 de febrero de 2025</p>
-      <p>🔗 <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color: #1f6feb; font-weight: bold;">Ver certificado completo (PDF)</a></p>
+      <p>🔗 <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing" target="_blank">Ver certificado completo (PDF)</a></p>
       <img src="https://img.shields.io/badge/Horas-40-1f6feb?style=flat-square" alt="Horas Badge">
-    </div>
-    
-    <div style="border: 2px solid #1f6feb; border-radius: 15px; padding: 20px; background: #0d1117; max-width: 350px; text-align: center; box-shadow: 0 8px 16px rgba(31,111,235,0.2);">
-      <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" width="250" height="180" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(31,111,235,0.3);" alt="Certificado Laboral" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="padding:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
+      <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank">
+        <img src="https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" alt="Certificado Laboral" width="250"/>
       </a>
-      <h3 style="color: #1f6feb; margin: 15px 0;">Certificado de Prácticas Voluntarias</h3>
-      <p><strong>Institución:</strong> <a href="https://grupoancon.com/" style="color: #1f6feb;">Grupo Ancon</a></p>
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <h3>Certificado de Practicas Voluntarias</h3>
+      <p><strong>Institución:</strong> <a href="https://grupoancon.com/">Grupo Ancon </a></p>
       <p><strong>Fecha:</strong> 26 de Septiembre de 2025</p>
-      <p>🔗 <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color: #1f6feb; font-weight: bold;">Ver certificado completo (PDF)</a></p>
+      <p>🔗 <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing" target="_blank">Ver certificado completo (PDF)</a></p>
       <img src="https://img.shields.io/badge/Duración-19+días-1f6feb?style=flat-square" alt="Duración Badge">
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 🎯 Lo que Estoy Aprendiendo Actualmente
-- **Desarrollo Web Full-Stack** 🌐: Profundizando en **Django**, **Python**, **HTML** y **JavaScript** para crear aplicaciones escalables y responsivas.
-- **Machine Learning Avanzado** 🤖: Explorando modelos predictivos con TensorFlow y datasets reales.
-- **APIs y Bases de Datos** 💾: Diseñando RESTful services y optimizando consultas en MySQL/PostgreSQL.
+## 🎯 Lo que estoy aprendiendo actualmente
+- **Desarrollo web con Django, Python, HTML y JavaScript** 🌐: Creando apps full-stack escalables y responsivas.
+- **Machine Learning Avanzado** 🤖: Modelos predictivos con TensorFlow y datasets reales.
+- **APIs y Bases de Datos** 💾: RESTful services y optimización en MySQL/PostgreSQL.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Goal-Daily+Practice-1f6feb?style=for-the-badge&logo=clock" alt="Practice Badge">
@@ -161,7 +198,6 @@ Estoy compartiendo mis proyectos realizados en la universidad.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Proyectos-2+Activos-1f6feb?style=flat-square&logo=code" alt="Projects Badge">
-  <!-- Agrega un tercer proyecto si lo tienes; por ej: <a href="...">ML Tool Repo Pin</a> -->
 </div>
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
@@ -194,12 +230,12 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
   
   <h3>🔥 Racha de Contribuciones</h3>
   <a href="https://github.com/Axel-25-dg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
   
   <h3>📈 Gráfico de Actividad</h3>
   <a href="https://github.com/Axel-25-dg">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true" alt="Gráfico de Actividad" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true" alt="Gráfico de Actividad" width="100%" />
   </a>
 </div>
 
@@ -213,7 +249,25 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
 Puedes encontrarme en:
 - ✉️ **Correo:** *alexander18br17@gmail.com*
 - 📍 **Ubicación:** Quito, Ecuador 🌎
-- 💼 **LinkedIn:** [Axel Guamán](https://www.linkedin.com/in/axel-guaman) <!-- Ajusta si no lo tienes -->
+- 💼 **LinkedIn:** [Axel Guamán](https://www.linkedin.com/in/axel-guaman)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/axel-guaman">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://twitter.com/axelguaman">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://discord.com/users/axelguaman">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://youtube.com/@axelguaman">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Axel-25-dg&color=1f6feb&style=for-the-badge" alt="Visitors Count" />
