@@ -69,6 +69,11 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <img src="https://raw.githubusercontent.com/Axel-25-dg/Axel-25-dg/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+</div>
+
+###
+
 ### Habilidades Clave
 | **Categoría**     | **Nivel**     | **Herramientas Principales**                  |
 |------------------|---------------|-----------------------------------------------|
