@@ -67,9 +67,9 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <br clear="both">
 
-<!-- Snake animation: Si no carga, comenta esta línea y genera el SVG de nuevo via https://github.com/Platane/snk -->
+<!-- Snake animation: Si no carga, comenta esta línea y genera el SVG de nuevo via https://github.com/Platane/snk 
 <img src="https://raw.githubusercontent.com/Axel-25-dg/Axel-25-dg/output/snake.svg" alt="Snake animation" />
-
+-->
 <div align="center">
 </div>
 
