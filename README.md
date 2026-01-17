@@ -1,178 +1,166 @@
-<!-- ===================== HERO / BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0A192F&text=Axel%20Guamán&fontSize=48&animation=fadeIn&height=120"/>
-</p>
-
-<h2 align="center">👋 Hola, soy Axel</h2>
-
-<p align="center">
-  Estudiante de <strong>Tecnología en Desarrollo de Software</strong><br>
-  Apasionado por aprender, crear y colaborar en proyectos reales
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Axel-25-dg&label=Visitas%20al%20perfil&color=0A192F&style=flat"/>
-</p>
-
----
-
-## 🧠 Sobre mí
-
-Soy estudiante de Desarrollo de Software con enfoque en **desarrollo web**, **backend**, **bases de datos** y **aprendizaje continuo**.  
-Me interesa construir soluciones **bien estructuradas**, **escalables** y alineadas a buenas prácticas de ingeniería de software.
-
-Actualmente me encuentro fortaleciendo mis conocimientos técnicos mediante **proyectos universitarios**, **prácticas**, y **formación certificada**.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=AXEL%20GUAMÁN&fontSize=56&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=1f6feb&center=true&vCenter=true&width=600&lines=Software+Development+Student;Backend+and+Web+Development;Machine+Learning+Foundations" />
 </div>
 
-<p align="center">
-  <em>Lenguajes, frameworks y herramientas utilizadas en proyectos académicos y personales</em>
-</p>
+<br>
+
+<div align="center">
+  <a href="mailto:alexander18br17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alexander18br17@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Axel-25-dg">
+    <img src="https://img.shields.io/badge/GitHub-Axel--25--dg-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/axel-guaman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<hr style="border:none;height:3px;background:linear-gradient(to right,#0d1117,#1f6feb,#0d1117);">
+
+## Professional Profile
+
+Software Development student with a strong focus on **backend systems**, **web applications**, and **data-driven solutions**.  
+Experienced in academic and practical projects, emphasizing **clean architecture**, **scalability**, and **best development practices**.
+
+Motivated to grow professionally through real-world projects, internships, and collaborative environments.
 
 ---
 
-## 🎓 Certificaciones
+## Technology Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,js,ts,nextjs,html,css,mysql,postgres,tensorflow,azure,git,github,figma&theme=dark" />
+</div>
+
+<br>
+
+### Technical Competencies
+
+| Area            | Level         | Technologies |
+|-----------------|---------------|--------------|
+| Backend         | Advanced      | Python, Django, Node.js, NestJS |
+| Frontend        | Intermediate  | HTML, CSS, JavaScript, TypeScript, Next.js |
+| Databases       | Intermediate  | MySQL, PostgreSQL |
+| Machine Learning| Foundational  | TensorFlow, Supervised Models |
+| Tools & DevOps  | Basic         | Git, GitHub, Azure, Figma |
+
+<hr style="border:none;height:3px;background:linear-gradient(to right,#0d1117,#1f6feb,#0d1117);">
+
+## Certifications & Experience
+
+<div align="center">
 <table>
-  <tr>
-    <td width="260">
-      <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg" width="250"/>
-    </td>
-    <td>
-      <h3>Certificado en Machine Learning</h3>
-      <p><strong>Institución:</strong> Capacitaciones Técnicas del Ecuador</p>
-      <p><strong>Fecha:</strong> 8 de febrero de 2025</p>
-      <p>
-        🔗 <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing">
-        Ver certificado (PDF)</a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="300" align="center">
+  <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg" width="260"/>
+</td>
+<td>
+  <strong>Machine Learning Specialist</strong><br>
+  Capacitaciones Técnicas del Ecuador<br>
+  February 2025<br><br>
+  Training focused on Python for ML, predictive models, supervised learning, and data analysis.<br><br>
+  <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing">View Credential</a>
+</td>
+</tr>
 </table>
 
-<table>
-  <tr>
-    <td width="260">
-      <img src="https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" width="250"/>
-    </td>
-    <td>
-      <h3>Certificado de Prácticas Voluntarias</h3>
-      <p><strong>Institución:</strong> Grupo Ancon</p>
-      <p><strong>Fecha:</strong> 26 de septiembre de 2025</p>
-      <p>
-        🔗 <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing">
-        Ver certificado (PDF)</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📚 Aprendizaje Actual
-
-- Desarrollo web backend con **Django y Python**
-- Integración frontend con **HTML, CSS y JavaScript**
-- Buenas prácticas de arquitectura y bases de datos
-
----
-
-## 🚀 Proyectos Destacados
+<br>
 
 <table>
 <tr>
+<td width="300" align="center">
+  <img src="https://i.postimg.cc/VkBy2BP8/certificado-laboral.png" width="260"/>
+</td>
+<td>
+  <strong>Voluntary Professional Internship</strong><br>
+  Grupo Ancon<br>
+  September 2025<br><br>
+  Practical experience in software development workflows, database management, TypeScript integration, and teamwork in real environments.<br><br>
+  <a href="https://drive.google.com/file/d/135QDOJgI000MHmYdyad5d-5t9CJvu7RK/view?usp=sharing">View Credential</a>
+</td>
+</tr>
+</table>
+</div>
+
+<hr style="border:none;height:3px;background:linear-gradient(to right,#0d1117,#1f6feb,#0d1117);">
+
+## Featured Projects
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
-### 🏷️ Tienda Online de Zapatillas
-<em>Plataforma e-commerce desarrollada como proyecto universitario</em>
+### Sneaker E-Commerce Platform
+Full-stack web application for online sneaker sales. Includes product management, authentication, shopping cart, and order flow.
+
+**Stack:** Python · Django · HTML · CSS · MySQL
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axel-25-dg&repo=Tienda-Online&theme=tokyonight&hide_border=true"/>
 
-**Tecnologías:**  
-Python · Django · HTML · CSS
-
-<a href="https://github.com/Axel-25-dg/Tienda-Online">
-  <img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/Axel-25-dg/Tienda-Online">Repository</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎲 Juego de Apuestas
-<em>Sistema interactivo de apuestas virtuales con lógica en Python</em>
+### Betting Logic System
+Interactive betting simulator implementing conditional logic, probabilistic behavior, and result evaluation.
+
+**Stack:** Python
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axel-25-dg&repo=hola_mundo&theme=tokyonight&hide_border=true"/>
 
-**Tecnologías:**  
-Python
-
-<a href="https://github.com/Axel-25-dg/hola_mundo">
-  <img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/Axel-25-dg/hola_mundo">Repository</a>
 
 </td>
 </tr>
 </table>
 
----
+<hr style="border:none;height:3px;background:linear-gradient(to right,#0d1117,#1f6feb,#0d1117);">
 
-## 🤝 Colaboración
+## Current Focus Areas
 
-Estoy abierto a:
-- Proyectos educativos
-- Colaboraciones open source
-- Aprendizaje colaborativo y networking técnico
+- Backend architecture and scalable APIs
+- Web application structure and best practices
+- Database design and optimization
+- Machine learning fundamentals applied to real data
 
----
+<hr style="border:none;height:3px;background:linear-gradient(to right,#0d1117,#1f6feb,#0d1117);">
 
-## 🎯 Objetivo Profesional
+## GitHub Analytics
 
-Busco una **práctica profesional** o **oportunidad laboral** que me permita:
-- Aprender de equipos experimentados
-- Aplicar mis conocimientos técnicos
-- Crecer como desarrollador de software
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-25-dg&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
----
+<br>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-25-dg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true"/>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<hr style="border:none;height:3px;background:linear-gradient(to right,#0d1117,#1f6feb,#0d1117);">
+
+## Career Objective
+
+Seeking internship or junior developer opportunities to contribute to real-world projects, strengthen technical expertise, and grow within professional software teams.
 
 ---
 
-## 📫 Contacto
-
-- ✉️ **Email:** alexander18br17@gmail.com
-
----
-
-<p align="center">
-  <em>Gracias por visitar mi perfil. Estoy construyendo mi camino como desarrollador.</em>
-</p>
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer&animation=fadeOut" width="100%" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Axel-25-dg&color=1f6feb&style=for-the-badge"/>
+</div>
