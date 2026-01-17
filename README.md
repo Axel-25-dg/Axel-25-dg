@@ -20,7 +20,7 @@
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 📈 Perfil Profesional
+## Perfil Profesional
 <div align="center">
   <img src="https://img.shields.io/badge/Level-Student+Developer-1f6feb?style=flat-square&logo=star" alt="Level Badge">
 </div>
@@ -34,8 +34,8 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 🛠️ Tecnologías y Herramientas
-<div align="left">
+## Tecnologías y Herramientas
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
