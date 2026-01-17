@@ -209,7 +209,7 @@ Estoy compartiendo mis proyectos realizados en la universidad.
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 🤝 ¿Colaboramos?
+## ¿Colaboramos?
 Estoy **abierto a colaboraciones**, proyectos educativos, open source o simplemente para compartir ideas y aprender en comunidad. ¡Hablemos de cómo podemos crear algo increíble juntos!
 
 <div align="center">
@@ -218,7 +218,7 @@ Estoy **abierto a colaboraciones**, proyectos educativos, open source o simpleme
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## ✨ Objetivo
+## Objetivo
 Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me permita **aprender de los mejores**, aportar con mis conocimientos y crecer como desarrollador. ¡Listo para contribuir con pasión y dedicación!
 
 <div align="center">
@@ -228,18 +228,15 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
 ## 📈 Estadísticas
-<div align="center">
-  <h3>📊 Mis Estadísticas de GitHub</h3>
-  <a href="https://github.com/Axel-25-dg">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Axel" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-25-dg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-  </a>
+ <a href="https://github.com/Axel-25-dg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Axel"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-25-dg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes principales"/>
+  </a>
   
-  <h3>🔥 Racha de Contribuciones</h3>
-  <!-- Si no carga, es por Heroku downtime; alternativa: usa img de shields.io con texto "Streak: X días" -->
-  <a href="https://github.com/Axel-25-dg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  </a>
+  <h3> Racha de Contribuciones</h3>
+<a href="https://github.com/Axel-25-dg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
   
   <h3>📈 Gráfico de Actividad</h3>
   <!-- Si no carga, refresca; Vercel es estable, pero cachea por 1h -->
