@@ -84,12 +84,12 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 | **Bases de Datos**| 🟡 Intermedio| MySQL, PostgreSQL                            |
 | **DevOps/Tools** | 🟢 Básico    | Git, GitHub, Azure, Figma                    |
 
-<div align="center">
-  <!-- Progress bars: Si no cargan, es por rate limit; refresca o usa shields alternativos -->
+<!-- <div align="center">
+  <!-- Progress bars: Si no cargan, es por rate limit; refresca o usa shields alternativos 
   <img src="https://progress-bar.dev/85.svg?color=1f6feb&suffix=Backend" alt="Backend Progress">
   <img src="https://progress-bar.dev/70.svg?color=1f6feb&suffix=Frontend" alt="Frontend Progress">
   <img src="https://progress-bar.dev/55.svg?color=1f6feb&suffix=ML" alt="ML Progress">
-</div>
+</div> -->
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
@@ -140,15 +140,15 @@ Estudiante de **Tecnología en Desarrollo de Software** apasionado por aprender,
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
-## 📂 Mis Proyectos
+## Mis Proyectos
 Estoy compartiendo mis proyectos realizados en la universidad.  
 <div align="center">
-  <h3>🚀 Mis Proyectos Destacados</h3>
+  <h3> Mis Proyectos Destacados</h3>
   <table style="width: 100%; border-collapse: collapse; margin: 20px auto; background: #0d1117; border-radius: 15px; overflow: hidden; box-shadow: 0 8px 16px rgba(31,111,235,0.2);">
     <tr style="background: linear-gradient(to right, #1f6feb, #0d1117);">
-      <th style="padding: 15px; color: white; width: 33%;">📁 Proyecto</th>
-      <th style="padding: 15px; color: white; width: 33%;">🛠️ Tecnologías</th>
-      <th style="padding: 15px; color: white; width: 33%;">🔗 Enlace</th>
+      <th style="padding: 15px; color: white; width: 33%;"> Proyecto</th>
+      <th style="padding: 15px; color: white; width: 33%;"> Tecnologías</th>
+      <th style="padding: 15px; color: white; width: 33%;"> Enlace</th>
     </tr>
     <tr>
       <td style="padding: 20px; vertical-align: top; text-align: center; border: 1px solid #1f6feb;">
@@ -228,17 +228,20 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
 ## 📈 Estadísticas
+
  <div align="center">
+  <!--
   <h3>📊 Mis Estadísticas de GitHub</h3>
   <a href="https://github.com/Axel-25-dg">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Axel" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-25-dg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
   </a>
-  
+  <!--
   <h3>🔥 Racha de Contribuciones</h3>
   <a href="https://github.com/Axel-25-dg">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
+  
   <h3>📈 Gráfico de Actividad</h3>
   <!-- Si no carga, refresca; Vercel es estable, pero cachea por 1h -->
   <a href="https://github.com/Axel-25-dg">
@@ -246,10 +249,10 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
   </a>
 </div>
 
-<!-- Trophy: Si no carga, quítalo temporalmente; se genera basado en contribs -->
+<!-- Trophy: Si no carga, quítalo temporalmente; se genera basado en contribs 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Axel-25-dg&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy Badge" />
-</div>
+</div> -->
 
 <hr style="border: none; height: 3px; background: linear-gradient(to right, #0d1117, #1f6feb, #0d1117);">
 
