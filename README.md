@@ -1,66 +1,80 @@
-## Hi there! 👋
+# ## Hi there! 👋 I'm Axel
 
-I'm Axel, a passionate developer with a love for coding and problem-solving. Whether it's building web applications or exploring new technologies, I thrive on turning ideas into reality.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=radical&hide_border=true&title_color=00d1ff&icon_color=00d1ff" alt="Axel's GitHub Stats" />
+</div>
 
-## About Me
+### 🚀 About Me
 
-I am a software developer with a keen interest in full-stack development. Although I am still building my portfolio, I have worked on various projects that allowed me to hone my skills in JavaScript and TypeScript. I enjoy collaborating with others and am always eager to learn new things.
+I am a **Software Developer** with a strong focus on **Full-Stack Development**. I thrive on turning complex problems into elegant, functional digital solutions. Currently, I'm honing my skills in JavaScript and TypeScript environments, always eager to embrace new challenges and collaborate on innovative projects.
 
-## Skills & Technologies
+---
 
+### 🛠️ Skills & Technologies
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
 
-## Top Projects
+---
 
-* [Tienda-Online](https://github.com/Axel-25-dg/Tienda-Online) - A web store project built with Django. ⭐️ 0 | Language: HTML | Forks: 0 | Issues: 0
-* [calidad_software_manana](https://github.com/Axel-25-dg/calidad_software_manana) - A software quality course project. ⭐️ 0 | Language: JavaScript | Forks: 0 | Issues: 0
-* [Post_api](https://github.com/Axel-25-dg/Post_api) - A simple API project built with TypeScript. ⭐️ 0 | Language: TypeScript | Forks: 0 | Issues: 0
-* [veterinaria_api](https://github.com/Axel-25-dg/veterinaria_api) - An API project for a veterinary application. ⭐️ 0 | Language: TypeScript | Forks: 0 | Issues: 0
-* [vuelos_api](https://github.com/Axel-25-dg/vuelos_api) - An API project for flight management. ⭐️ 0 | Language: TypeScript | Forks: 0 | Issues: 0
+### 🌟 Featured Projects
 
-## GitHub Stats
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Tienda-Online**](https://github.com/Axel-25-dg/Tienda-Online) | E-commerce platform with full product management. | Django, Python, HTML |
+| [**Veterinaria API**](https://github.com/Axel-25-dg/veterinaria_api) | Professional API for veterinary management systems. | TypeScript, Node.js |
+| [**Vuelos API**](https://github.com/Axel-25-dg/vuelos_api) | Flight management and booking simulation API. | TypeScript, Express |
+| [**Post API**](https://github.com/Axel-25-dg/Post_api) | Social media style micro-service for posts. | TypeScript |
 
-📊 **Public Repositories:** 9  
-👥 **Followers:** 5  
-➡️ **Following:** 3  
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=radical)
+### 📈 Activity & Certifications
 
-## Recent Activity
+* 📜 **Certifications:** [Add your certificate link here]
+* 🎙️ **Talks:** [Add your talk/presentation link here]
+* 🔧 **Currently working on:** Improving software quality and testing with Jest.
 
-* Pushed to [programacion_III_manana](https://github.com/Axel-25-dg/programacion_III_manana) on `SEGUNDO-CORTE` branch.  
-* Merged pull request #3 in [calidad_software_manana](https://github.com/Axel-25-dg/calidad_software_manana).  
-* Created new branch `jest` in [calidad_software_manana](https://github.com/Axel-25-dg/calidad_software_manana).  
-* Pushed to [Post_api](https://github.com/Axel-25-dg/Post_api).  
-* Pushed to [vuelos_api](https://github.com/Axel-25-dg/vuelos_api).
+---
 
-## Latest Blog Posts
+### 📫 Connect with Me
 
-No blog posts available yet. Stay tuned!
+<p align="left">
+<项目-links>
+  <a href="https://linkedin.com/in/TU-USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:tuemail@ejemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
 
-## Connect with Me
-
-{}
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
-
-## Publications
-
-- [Publication Title](link-to-publication) - Journal/Conference, Year
-
-## ASCII Art
-
-```
-     _              _      ____  ____            _       
-    / \   __  _____| |    |___ \| ___|        __| | __ _ 
-   / _ \  \ \/ / _ \ |_____ __) |___ \ _____ / _` |/ _` |
-  / ___ \  >  <  __/ |_____/ __/ ___) |_____| (_| | (_| |
- /_/   \_\/_/\_\___|_|    |_____|____/       \__,_|\__, |
-                                                   |___/ 
-```
+```bash
+  _      _      ____  ____            _        
+ / \  __ \ _____| |    |___ \| ___|        __| | __ _ 
+/ _ \ \ \/ / _ \ |_____ __) |___ \ _____ / _` |/ _` |
+/ ___ \ >  <  __/ |_____/ __/ ___) |_____| (_| | (_| |
+/_/   \_\/_/\_\___|_|    |_____|____/       \__,_|\__, |
+                                                   |___/
